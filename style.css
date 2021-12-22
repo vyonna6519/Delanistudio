@@ -36,14 +36,11 @@
     font-weight: 500;
 }
 
-.top {
-    font-weight: 400;
-    margin-bottom: 10px;
-}
 
 .services{
     background-image: url(images/delani3.jpg);
     color: white;
     background-repeat: no-repeat;
     height: 700px;
+    padding-top: 150px;
 }
