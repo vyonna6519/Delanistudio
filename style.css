@@ -26,3 +26,12 @@
 .welcome p {
     margin-top: 20px;
 }
+
+.us {
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.work {
+    font-weight: 500;
+}
