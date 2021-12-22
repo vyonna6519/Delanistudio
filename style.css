@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Risque';
+    src: url(Risque/);
+}
+
 .welcome {
     background-image: url(images/delanitop.jpg);
     background-repeat: no-repeat;
