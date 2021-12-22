@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Risque';
-    src: url(Risque/);
+    src: url("fonts/Risque/OFL.txt");
 }
 
 .welcome {
@@ -20,6 +20,7 @@
 
 .welcome h3 {
     margin-top: 40px;
+    font-weight: bold;
 }
 
 .welcome p {
