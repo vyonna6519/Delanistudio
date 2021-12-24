@@ -97,3 +97,9 @@ textarea {
     margin-top: 30px;
 }
 
+.copyright {
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-weight: 60px;
+}
+
