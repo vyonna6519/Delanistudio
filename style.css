@@ -51,3 +51,15 @@
 .serve{
     font-weight: 550;
 }
+
+.input {
+    justify-content: center;
+    
+}
+
+textarea {
+    margin-top:20px ;
+    height: 200px;
+    width: 100%;
+    
+}
