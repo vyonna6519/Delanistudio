@@ -67,9 +67,21 @@
 
 .input {
     justify-content: center;
-    
 }
 
+.name {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    width: 50%;
+}
+
+.email {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    width: 50%;
+}
 textarea {
     margin-top:20px ;
     height: 200px;
@@ -80,6 +92,6 @@ textarea {
     
 }
 
-.name {
-    width: 50%;
+.btn {
+    
 }
