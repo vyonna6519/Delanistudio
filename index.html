@@ -125,20 +125,29 @@
           </div>
       </section>
       <section class="contact">
-          <h2 class="text-center">CONTACT US</h2>
-        
-          <form class="form">
-            <div class="input text-center">
-              <label for="name">name</label><br>
-              <input type="text" id="name" name="name"><br>
-              <label for="email">email</label><br>
-              <input type="text" id="email" name="email">
-            </div>
+        <div class="container">
+          <form action="action_page.php">
+            <div class="row">
+              <div class="name col-md-3">
+                <input type="text" id="name" name="name" placeholder="Name">
+              </div>
 
-            <div class="message">
-              <textarea name="message" form="message">Your message here...</textarea>
+                <div class="email col-md-3">
+                  <input type="text" id="email" name="email" placeholder="email">
+                </div>
+
+            </div>
+            
+            <div class="row">
+              <div class="col-75">
+                <textarea id="message" name="message" placeholder="your message here"></textarea>
+              </div>
+            </div>
+            <div class="row">
+              <input type="submit" value="Submit">
             </div>
           </form>
+        </div>
 
       </section>
 
