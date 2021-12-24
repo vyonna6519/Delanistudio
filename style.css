@@ -55,7 +55,9 @@
 .contact {
     background-image: url(images/delanifooter.jpg);
     background-repeat: no-repeat;
-    height: 700px;
+    height: 600px;
+    color: white;
+    padding: 50px;
 }
 
 .cont {
