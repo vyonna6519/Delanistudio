@@ -52,6 +52,17 @@
     font-weight: 550;
 }
 
+.contact {
+    background-image: url(images/delanifooter.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.cont {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .input {
     justify-content: center;
     
@@ -62,4 +73,8 @@ textarea {
     height: 200px;
     width: 100%;
     
+}
+
+.name {
+    width: 50%;
 }
