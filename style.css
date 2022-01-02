@@ -122,11 +122,4 @@ p.par-3{
     display: none;
 }
 
-.portfolio .p1{
-    position: absolute;
-    top: 50%;
-    background: #fff;
-    transform: translateY(-50%);
-    text-align: center;
-    
-}
+
