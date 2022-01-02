@@ -13,7 +13,7 @@ You can install it with the following command in your terminal
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
-2. Use this command to clone `$ git clone https://github.com/vyonna6519/Delanistudio`
+2. Use this command to clone `$ git clone https://vyonna6519.github.io/Delanistudio/`
 * This will clone the repository into your local folder
 ### Technologies Used
 1. HTML
@@ -23,6 +23,6 @@ To access this project on your local files, you can clone it using these steps
 5. jquery
 
 ### Live Site
-View [Live](https://github.com/vyonna6519/Delanistudio)
+View [Live](https://vyonna6519.github.io/Delanistudio/)
 ### License
 This project is under the  [MIT](LICENSE.md) license
