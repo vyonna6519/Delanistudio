@@ -5,7 +5,7 @@ By Vyonna Njenga
 ### Description
 This is a website application about Delani Studio.It puts to test my jquery and javascript skills. 
 ### Screenshot
-![Screenshot from 2021-12-13 09-25-12](https://user-images.githubusercontent.com/93370913/145762837-096d01e5-41f2-4fa2-bd35-14d03fbcff23.png)
+![Screenshot from 2022-01-02 14-03-17](https://user-images.githubusercontent.com/93370913/147873735-f084fb67-7671-4705-8dbb-2284993d9c23.png)
 ### Prerequisities
 You need to have git installed
 You can install it with the following command in your terminal
