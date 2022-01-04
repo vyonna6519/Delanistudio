@@ -54,15 +54,14 @@
 
 .portfolio {
     text-align: center;
+    justify-content: space-evenly;
 }
 
 .portfolio h2 {
     margin-bottom: 50px;
 }
 
-#one {
-    justify-content: space-between;
-}
+
 
 .Contact {
     background-image: url(images/delanifooter.jpg);
