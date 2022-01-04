@@ -27,23 +27,17 @@ $(document).ready(function(){
 });
 
 
-  $(".Hover").hover(function(){
-    $(this).animate({opacity:'1'});
-  },
-  function(){
-    $(this).animate({opacity:'0'});
-  })
   
-  $('.submit').click(function () {
-    var Name = $('.name').val();
-    var Email = $('.email').val();
-    var Message = $('.message');
-
-    if (Name == '' || Email == '' || Message == '') {
-        alert('input correctly!');
-    } else {
-        alert(' Hi ' + Name + ' We have received your message. Thank you for reaching out to us.');
-    }
+$('.submit').click(function () {
+  var Name = $('#mce-FNAME').val();
+  var Email = $('#mce-EMAIL').val();
+  var Message = $('#mce-MESSAGE');
+  var key ='5ab3cbd643bcd3fa381cfdba4a5a0092';
+  if (Name == '' || Email == '' || Message == '') {
+      alert('Please fill in the form correctly!');
+  } else {
+      alert(' Hi ' + Name + ' We have received your message. Thank you for reaching out to us.');
+  }
 });
 });
   

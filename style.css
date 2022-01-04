@@ -60,7 +60,9 @@
     margin-bottom: 50px;
 }
 
-
+#one {
+    justify-content: space-between;
+}
 
 .Contact {
     background-image: url(images/delanifooter.jpg);
@@ -76,6 +78,7 @@
   form #contact{
     background-color: rgba(0, 0, 0, 0);
   }
+
   
   input[type=text] {
     background:transparent;
