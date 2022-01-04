@@ -27,4 +27,23 @@ $(document).ready(function(){
 });
 
 
+  $(".Hover").hover(function(){
+    $(this).animate({opacity:'1'});
+  },
+  function(){
+    $(this).animate({opacity:'0'});
+  })
+  
+  $('.submit').click(function () {
+    var Name = $('.name').val();
+    var Email = $('.email').val();
+    var Message = $('.message');
+
+    if (Name == '' || Email == '' || Message == '') {
+        alert('input correctly!');
+    } else {
+        alert(' Hi ' + Name + ' We have received your message. Thank you for reaching out to us.');
+    }
+});
+});
   
