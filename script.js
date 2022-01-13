@@ -39,4 +39,19 @@ $('.submit').click(function () {
       alert(' Hi ' + Name + ' We have received your message. Thank you for reaching out to us.');
   }
 });
+
+$(document).ready(function() {
+    $("div.image-frame").hover(function() {
+        $(".port4 ").addClass("port5 flex-center");
+    });
+    $("div.image-frame").hover(function() {
+        $(".port3 ").addClass("port6 flex-center");
+    });
+    $("div.image-frame").hover(function() {
+        $(".port2 ").addClass("port7 flex-center");
+    });
+    $("div.image-frame").hover(function() {
+        $(".port1 ").addClass("port8 flex-center");
+    });
+});
   

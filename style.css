@@ -15,7 +15,7 @@
 }
 
 .click {
-    margin-top: 300px;
+    margin-top: 250px;
 }
 
 .welcome h3 {
@@ -30,8 +30,11 @@
     margin-bottom: 80px;
 }
 
+.about h2 {
+  margin-bottom: 30px;
+}
 .us {
-    font-weight: 400;
+    font-weight: 400px;
     margin-bottom: 10px;
 }
 
@@ -44,12 +47,21 @@
     background-image: url(images/delani3.jpg);
     color: white;
     background-repeat: no-repeat;
-    height: 700px;
-    padding-top: 150px;
+    height: 500px;
+    padding-top: 100px;
 }
  
 .serve{
     font-weight: 550;
+}
+
+.what h2 {
+  margin-top: 40px;
+  margin-bottom: 30px;
+  
+}
+.we {
+  padding:30px;
 }
 
 .portfolio {
@@ -117,23 +129,14 @@ p.par-3{
 }
 
 
-.Hover {
-  opacity:0;
-  background-color: rgba(255, 255, 255, 0.623);
-  position: absolute;
-  top:25%;
-  bottom:25%;
-  left:25%;
-  right:25%; 
+.portfolio {
+  border-top: 1px solid grey;
+  padding-top: 7%;
+  padding-bottom: 5%;
+  background-color: inherit;
+  color: black;
+  font-weight: bold;
 }
-.portfolio-images {
-  height: 280px;
-  max-width: 280px;
-  padding:2px;
-  align-items: center;
-justify-content: space-evenly;
-}
-.one{
-  padding:2%0px;
-  justify-content: space-evenly
+.port {
+  max-width:80%;
 }
